@@ -154,7 +154,7 @@ skills:
       - name: Ballet
         description: ''
         percent: 90
-        icon: 🩰
+        icon: cloud
       - name: Pilates
         description: ''
         percent: 90
