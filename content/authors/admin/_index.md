@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Alex Johnson
+title: Sara Sousi
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: Sara
+last_name: Sousi
 
 # Pronouns (optional)
-pronouns: he/him
+pronouns: ''
 
 # Status emoji
 status:
-  icon: 🚀
+  icon: 👩🏻‍💻
 
 # Is this the primary user of the site?
 superuser: true
@@ -23,65 +23,61 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: PhD Candidate & Data Scientist 
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: Imperial College London
+    url: https://www.imperial.ac.uk/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
+    url: 'mailto:s.sousi19@imperial.ac.uk'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
   - icon: brands/github
-    url: https://github.com/alexjohnsonai
+    url: https://github.com/SaraSousi
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
+    url: https://www.linkedin.com/in/sara-sousi/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
+    url: https://scholar.google.com/citations?user=sarasousi
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://orcid.org/0000-0002-0494-5138
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - AI in Healthcare
+  - Public Health
+  - Biostatistics
+  - Health Informatics
+  - Digital Health
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
+  - area: PhD Clinical Medical Research - Artificial Intelligence and Digital Health
+    institution: Imperial College London
     icon: ""
-    date_start: 2015-09-01
-    date_end: 2019-06-30
+    date_start: 2025
+    date_end: 2028
     summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
+      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof the Lord Ara Darzi, Dr Ana Luisa Neves. P
+    <>button:
+      <>text: 'Read Thesis'
+      <>url: 'https://example.com/thesis.pdf'
+  - area: MRes Bioinformatics - Health Data Science
+    institution: Imperial College London
     icon: ""
-    date_start: 2013-09-01
-    date_end: 2015-05-31
+    date_start: 2019
+    date_end: 2020
     summary: |
-      GPA: 4.0/4.0
+      Distinction
 
-      Specialized in machine learning and robotics.
-  - area: BS Computer Science
-    institution: MIT
+  - area: BSc (Hons) Mathematics
+    institution: University of Warwick
     icon: ""
-    date_start: 2009-09-01
-    date_end: 2013-05-31
+    date_start: 20016
+    date_end: 2019
     summary: |
-      GPA: 3.9/4.0
-
-      Minored in Mathematics. President of AI Club.
+      Distinction
 
 work:
   - position: Senior AI Research Scientist
@@ -146,13 +142,13 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Best Paper Award
-    url: https://neurips.cc/
-    date: '2022-12-01'
-    awarder: NeurIPS
+  - title: Imperial Global Fellow Fund
+    url: https://www.imperial.ac.uk/students/global-opportunities/pg/globalfellowsfund/
+    date: '2026-05-01'
+    awarder: Weil Cornell Medicine
     icon: hero/trophy
     summary: |
-      Awarded for groundbreaking work on efficient training of large models.
+      Awarded to go as a visiting researcher to WCM
   - title: AI Innovation Grant
     url: https://www.nsf.gov/
     date: '2021-06-15'
@@ -169,4 +165,4 @@ awards:
       Recognized for contributions to scaling laws in deep learning.
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+Sara is an NIHR funded PhD Candidate at Imperial College London. Her research centres on developing AI models to uncover patterns using Electronic Health Records. Her PhD is focusing on women with gestational diabetes and the impact of remote care. Sara is passionate about bridging medicine and technology, for better patient outcomes. Outside of work, she enjoys pilates, dance classes, reading, and baking. 
