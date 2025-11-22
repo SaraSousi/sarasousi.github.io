@@ -42,6 +42,8 @@ profiles:
     url: https://www.linkedin.com/in/sara-sousi/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=sarasousi
+- icon: academicons/researchgate
+    url: https://www.researchgate.net/profile/Sara_Sousi
   - icon: academicons/orcid
     url: https://orcid.org/0000-0002-0494-5138
 
@@ -90,6 +92,14 @@ work:
       Analysed UK Biobank dataset and accelerometer data to identify patient trajectories in lower limb arthroplasty.
       Employed advanced statistical techniques and machine learning to derive actionable insights from over 500GB of data.
       Mapped population-scale insights using Clinical Practice Research Datalink (CPRD), impacting patient care strategies for elective arthroplasty using ML.
+  - position: Senior Strategy Consultant - Data Science
+    company_name: EY Parthenon
+    company_url: '[https://www.imperial.ac.uk/msk-lab/](https://www.ey.com/en_uk/services/strategy-transactions/valuation-modeling-economics)'
+    icon: ''
+    date_start: 2023-05-01
+    date_end: 2025-01-31
+    summary: |2-
+      Working with NHS Trusts and ICBS, NHS Digital Channels, Phama, BioTech startups providing data driven solutions, go-to-market and market entry strategies, real world data strategie, commercial due diligence, technical and independent algorithm reviews. Led an independent model review of a Markov model of a portfolio valued at ~£500B. Led the opportunity sizing for the NHS One Digital programme, focusing on Citizen, EPRs optimisation, and shared cared records. Undertook the review of the revenue forecasting model of a pharmaceutical (Royalty Pharma) valued at $15B using R.
   - position: Honorary Research Fellow - Statistician
     company_name: UCL
     company_url: 'https://ucl.ac.uk/'
@@ -98,6 +108,22 @@ work:
     date_end: 2026-01-01
     summary: |
       Conducted comprehensive statistical analyses and computational modeling for various research projects within the department. Co-authored 10+ papers.
+ - position: Strategy Consultant - Data Science
+    company_name: EY Parthenon
+    company_url: '[https://www.imperial.ac.uk/msk-lab/](https://www.ey.com/en_uk/services/strategy-transactions/valuation-modeling-economics)'
+    icon: ''
+    date_start: 2021-09-01
+    date_end: 2023-04-01
+    summary: |2-
+      Only consultant to promote early in the history of the team. Part of the value of data team, where I opened a new revenue stream for a health exchange information entity in the MENA region due to a research piece linking population health and dental data. Created an automated reporting tool for NHS England’s using web scraping which updates monthly and provides insight of the latest elective and non-elective activity, using publicly available data. This aided in the targeted approaches for existing and new clients and for live engagements. Dashboard was requested to be purchased by multiple clients.
+ - position: Honorary Research Fellow - Statistician
+    company_name: King's Health Partners, KCL
+    company_url: 'https://www.kingshealthpartners.org/'
+    icon: ''
+    date_start: 2021-01-01
+    date_end: 2024-01-01
+    summary: |
+      Conducted comprehensive statistical analyses on wearable data, from Empatica smartwatches, to assess whether the data collected by the devices would indicate infection of COVID-19 prior to symptom onset.
     
 # Add your own SVG icons to `assets/media/icons/`
 skills:
@@ -154,20 +180,14 @@ awards:
     icon: hero/trophy
     summary: |
       Awarded to go as a visiting researcher to WCM
-  - title: AI Innovation Grant
+  - title: PhD Studentship
     url: https://www.nsf.gov/
-    date: '2021-06-15'
-    awarder: National Science Foundation
+    date: '2025-04-10'
+    awarder: NIHR PSRC NWL
     icon: hero/currency-dollar
     summary: |
-      $500,000 grant for research in ethical AI development.
-  - title: Outstanding PhD Thesis
-    url: https://www.stanford.edu/
-    date: '2019-06-30'
-    awarder: Stanford University
-    icon: hero/academic-cap
-    summary: |
-      Recognized for contributions to scaling laws in deep learning.
+      £120,000 grant for fully funded PhD
+
 ---
 
 Sara is an NIHR funded PhD Candidate at Imperial College London. Her research centres on developing AI models to uncover patterns using Electronic Health Records. Her PhD is focusing on women with gestational diabetes and the impact of remote care. Sara is passionate about bridging medicine and technology, for better patient outcomes. Outside of work, she enjoys pilates, dance classes, reading, and baking. 
