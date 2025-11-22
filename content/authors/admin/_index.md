@@ -140,7 +140,7 @@ skills:
       - name: Biostatistics
         description: ''
         percent: 90
-        icon: chart-bar
+        icon: chart_with_upwards_trend
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -148,15 +148,15 @@ skills:
       - name: Ballet
         description: ''
         percent: 90
-        icon: person-simple-walk
+        icon: 🩰
       - name: Pilates
         description: ''
         percent: 90
-        icon: cpu-chip
+        icon: <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/3c8890c3-2f81-4909-a021-722ebd57b064" />
       - name: Baking
         description: ''
-        percent: 70
-        icon: book-open
+        percent: 90
+        icon: cake
 
 languages:
   - name: English
