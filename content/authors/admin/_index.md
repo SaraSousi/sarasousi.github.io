@@ -89,7 +89,7 @@ work:
     summary: |2-
       Analysed UK Biobank dataset and accelerometer data to identify patient trajectories in lower limb arthroplasty
       Employed advanced statistical techniques and machine learning to derive actionable insights from over 500GB of data
-    Mapped population-scale insights using Clinical Practice Research Datalink (CPRD), impacting patient care strategies for elective arthroplasty using ML
+      Mapped population-scale insights using Clinical Practice Research Datalink (CPRD), impacting patient care strategies for elective arthroplasty using ML
   - position: Honorary Research Fellow - Statistician
     company_name: UCL
     company_url: 'https://ucl.ac.uk/'
