@@ -146,7 +146,7 @@ skills:
       - name: Biostatistics
         description: ''
         percent: 90
-        icon: 📈
+        icon: chart-line
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -154,11 +154,11 @@ skills:
       - name: Ballet
         description: ''
         percent: 90
-        icon: 🩰
+        icon: shoe-ballet
       - name: Pilates
         description: ''
         percent: 90
-        icon: <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/677c752b-f4ca-4bd4-9335-39fc4d033401" />
+        icon: yoda
       - name: Baking
         description: ''
         percent: 90
